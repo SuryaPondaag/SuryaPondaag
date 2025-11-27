@@ -8,3 +8,5 @@
 
 - Build a habit of consistent daily insights.
 
+- Note insights that help shape future decisions.
+
