@@ -10,3 +10,5 @@
 
 - Note insights that help shape future decisions.
 
+- Focus on ideas that stand out during the day.
+
