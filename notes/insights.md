@@ -12,3 +12,5 @@
 
 - Focus on ideas that stand out during the day.
 
+- Track small realizations that bring clarity.
+
