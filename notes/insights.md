@@ -14,3 +14,5 @@
 
 - Track small realizations that bring clarity.
 
+- Avoid overthinking; just write what feels real.
+
