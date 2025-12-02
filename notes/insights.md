@@ -16,3 +16,5 @@
 
 - Avoid overthinking; just write what feels real.
 
+- Review past insights to refine understanding.
+
