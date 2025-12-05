@@ -18,3 +18,5 @@
 
 - Review past insights to refine understanding.
 
+- Keep the tone calm and reflective.
+
