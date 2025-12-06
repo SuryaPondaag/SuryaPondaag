@@ -20,3 +20,5 @@
 
 - Keep the tone calm and reflective.
 
+- Build a habit of consistent daily insights.
+
