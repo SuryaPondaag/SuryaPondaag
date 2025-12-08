@@ -22,3 +22,7 @@
 
 - Build a habit of consistent daily insights.
 
+
+Consider adding a `CONTRIBUTING.md` file outlining guidelines for new contributors.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
