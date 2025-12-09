@@ -26,3 +26,8 @@
 Consider adding a `CONTRIBUTING.md` file outlining guidelines for new contributors.
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding GitHub Actions for CI/CD, including automated testing and deployment.
+
+Explore integrating a simple front-end framework (e.g., React, Vue, or Svelte) for a more interactive user interface if the project evolves beyond a backend API.
+
