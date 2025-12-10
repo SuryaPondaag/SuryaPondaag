@@ -31,3 +31,7 @@ Consider adding GitHub Actions for CI/CD, including automated testing and deploy
 
 Explore integrating a simple front-end framework (e.g., React, Vue, or Svelte) for a more interactive user interface if the project evolves beyond a backend API.
 
+
+Consider adding unit tests for the core logic.
+Explore potential for a CI/CD pipeline.
+
