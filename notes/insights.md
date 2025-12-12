@@ -39,3 +39,7 @@ Explore potential for a CI/CD pipeline.
 *   Consider adding a README.md explaining the project's purpose and how to use it.
 *   Explore potential CI/CD pipeline integration for automated testing and deployment.
 
+
+Consider adding a contribution guide.
+Explore adding CI/CD pipelines for automated testing and deployment.
+
