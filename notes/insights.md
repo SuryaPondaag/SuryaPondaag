@@ -60,3 +60,7 @@ Explore adding a "daily mantra" or affirmation feature for mental well-being.
 Consider adding a README.md with a project overview and setup instructions.
 Explore CI/CD integration for automated testing and deployment.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
