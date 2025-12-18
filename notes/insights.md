@@ -64,3 +64,7 @@ Explore CI/CD integration for automated testing and deployment.
 Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+*   Consider adding examples of cloud-native deployments (e.g., Kubernetes manifests) if applicable.
+*   Explore integrating a CI/CD pipeline for automated testing and deployment.
+
