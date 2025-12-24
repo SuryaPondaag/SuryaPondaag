@@ -88,3 +88,7 @@ The repo name "SuryaPondaag" sounds like it might be related to a personal proje
 - Implement a CI/CD pipeline for automated testing and deployment.
 - Add comprehensive documentation for each module and API.
 
+
+Consider adding a CONTRIBUTING.md file.
+Explore integrating a CI/CD pipeline.
+
