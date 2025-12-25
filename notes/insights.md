@@ -92,3 +92,7 @@ The repo name "SuryaPondaag" sounds like it might be related to a personal proje
 Consider adding a CONTRIBUTING.md file.
 Explore integrating a CI/CD pipeline.
 
+
+*   Consider a GitHub Actions workflow for automated testing and deployment.
+*   Explore potential integration with a CI/CD pipeline for efficient development cycles.
+
