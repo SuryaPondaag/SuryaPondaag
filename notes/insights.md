@@ -96,3 +96,7 @@ Explore integrating a CI/CD pipeline.
 *   Consider a GitHub Actions workflow for automated testing and deployment.
 *   Explore potential integration with a CI/CD pipeline for efficient development cycles.
 
+
+Project could benefit from a CONTRIBUTING.md file.
+Consider adding a README.md to explain the project's purpose and how to use it.
+
