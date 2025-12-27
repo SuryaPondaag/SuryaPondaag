@@ -100,3 +100,7 @@ Explore integrating a CI/CD pipeline.
 Project could benefit from a CONTRIBUTING.md file.
 Consider adding a README.md to explain the project's purpose and how to use it.
 
+
+Consider adding a `CONTRIBUTING.md` file.
+Explore GitHub Actions for CI/CD automation.
+
