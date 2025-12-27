@@ -104,3 +104,7 @@ Consider adding a README.md to explain the project's purpose and how to use it.
 Consider adding a `CONTRIBUTING.md` file.
 Explore GitHub Actions for CI/CD automation.
 
+
+Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
