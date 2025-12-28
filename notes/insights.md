@@ -108,3 +108,8 @@ Explore GitHub Actions for CI/CD automation.
 Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
+Explore integrating a lightweight framework for API documentation generation.
+
