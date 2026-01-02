@@ -117,3 +117,7 @@ Explore integrating a lightweight framework for API documentation generation.
 Consider adding a `LICENSE` file to specify usage rights.
 Implement a CI/CD pipeline for automated testing and deployment.
 
+
+Consider a CI/CD pipeline for automated testing and deployment.
+Explore integration with cloud storage solutions for managing large datasets.
+
