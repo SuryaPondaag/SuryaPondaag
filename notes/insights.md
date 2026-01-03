@@ -125,3 +125,8 @@ Explore integration with cloud storage solutions for managing large datasets.
 AI-powered content summarization for articles.
 Personalized recommendation engine for curated content.
 
+
+This repo could be a good place to explore and implement different algorithms for optimizing Pondaag's (or similar agricultural/energy models) based on solar irradiation data.
+
+Consider adding sections or sub-modules for time-series forecasting of solar irradiation (e.g., using ARIMA, LSTM) to improve input data accuracy for the Pondaag model.
+
