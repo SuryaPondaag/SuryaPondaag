@@ -130,3 +130,7 @@ This repo could be a good place to explore and implement different algorithms fo
 
 Consider adding sections or sub-modules for time-series forecasting of solar irradiation (e.g., using ARIMA, LSTM) to improve input data accuracy for the Pondaag model.
 
+
+Consider adding a README.md explaining the purpose of the repository, its contents, and how to use it.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
