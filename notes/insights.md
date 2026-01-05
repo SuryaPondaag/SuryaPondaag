@@ -134,3 +134,7 @@ Consider adding sections or sub-modules for time-series forecasting of solar irr
 Consider adding a README.md explaining the purpose of the repository, its contents, and how to use it.
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+- Integrate CI/CD pipelines for automated testing and deployment.
+- Implement comprehensive unit and integration tests for core functionalities.
+
