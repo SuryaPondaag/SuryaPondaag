@@ -138,3 +138,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 - Integrate CI/CD pipelines for automated testing and deployment.
 - Implement comprehensive unit and integration tests for core functionalities.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+*   Explore adding automated testing (e.g., unit, integration tests) for improved code quality and stability.
+
