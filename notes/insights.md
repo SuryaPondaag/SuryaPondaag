@@ -146,3 +146,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 *   Add a `README.md` with a project description, setup instructions, and usage examples.
 *   Consider incorporating unit tests for core functionalities.
 
+
+Consider adding a CONTRIBUTING.md file to outline guidelines for contributors.
+Explore CI/CD integration for automated testing and deployment.
+
