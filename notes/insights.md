@@ -150,3 +150,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 Consider adding a CONTRIBUTING.md file to outline guidelines for contributors.
 Explore CI/CD integration for automated testing and deployment.
 
+
+Consider adding a README.md with a project overview, installation instructions, and usage examples.
+Explore integrating a continuous integration/continuous deployment (CI/CD) pipeline for automated testing and deployment.
+
