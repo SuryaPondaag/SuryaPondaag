@@ -158,3 +158,8 @@ Explore integrating a continuous integration/continuous deployment (CI/CD) pipel
 Consider adding a README.md with a project overview, setup instructions, and contribution guidelines.
 Explore potential CI/CD pipeline integration for automated testing and deployment.
 
+
+Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
+
+Explore adding automated testing (e.g., unit tests, integration tests) for increased code reliability.
+
