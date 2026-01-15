@@ -163,3 +163,8 @@ Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
 
 Explore adding automated testing (e.g., unit tests, integration tests) for increased code reliability.
 
+
+Consider adding a "Contributing" section outlining how others can contribute to the project.
+
+Include a `LICENSE` file with an appropriate open-source license.
+
