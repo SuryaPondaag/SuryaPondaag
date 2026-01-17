@@ -168,3 +168,7 @@ Consider adding a "Contributing" section outlining how others can contribute to 
 
 Include a `LICENSE` file with an appropriate open-source license.
 
+
+1.  Consider adding a README.md with project description, setup instructions, and usage examples.
+2.  Explore adding CI/CD pipelines for automated testing and deployment.
+
