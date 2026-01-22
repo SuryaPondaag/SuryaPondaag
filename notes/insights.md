@@ -183,3 +183,7 @@ The repo name "SuryaPondaag" suggests a potential project related to either sola
 Consider adding a "Contributing Guidelines" section to encourage community involvement.
 Explore integrating CI/CD pipelines for automated testing and deployment.
 
+
+*   Consider adding a `CHANGELOG.md` to track significant updates.
+*   Explore CI/CD integration for automated testing and deployment.
+
