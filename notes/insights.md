@@ -187,3 +187,9 @@ Explore integrating CI/CD pipelines for automated testing and deployment.
 *   Consider adding a `CHANGELOG.md` to track significant updates.
 *   Explore CI/CD integration for automated testing and deployment.
 
+
+This repo seems to be a personal project or portfolio.
+
+*   Consider adding a clear "About Me" or "About This Project" section within the README for context.
+*   Include a LICENSE file to define usage rights.
+
