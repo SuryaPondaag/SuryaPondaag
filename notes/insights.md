@@ -193,3 +193,8 @@ This repo seems to be a personal project or portfolio.
 *   Consider adding a clear "About Me" or "About This Project" section within the README for context.
 *   Include a LICENSE file to define usage rights.
 
+
+*   Integrate CI/CD pipelines for automated testing and deployment.
+*   Consider adding a comprehensive README with usage instructions and contribution guidelines.
+*   Implement unit and integration tests for core functionalities.
+
