@@ -198,3 +198,7 @@ This repo seems to be a personal project or portfolio.
 *   Consider adding a comprehensive README with usage instructions and contribution guidelines.
 *   Implement unit and integration tests for core functionalities.
 
+
+Consider adding a CONTRIBUTING.md file.
+Explore using GitHub Actions for CI/CD.
+
