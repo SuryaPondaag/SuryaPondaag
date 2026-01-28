@@ -202,3 +202,7 @@ This repo seems to be a personal project or portfolio.
 Consider adding a CONTRIBUTING.md file.
 Explore using GitHub Actions for CI/CD.
 
+
+*   **Contribution Guidelines:** Clearly outline how others can contribute to the project (e.g., code style, pull request process).
+*   **License Information:** Specify the open-source license under which the project is distributed.
+
